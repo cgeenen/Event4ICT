@@ -8,5 +8,32 @@ namespace Event4ICT
 {
     class MaterialManager
     {
+        Account account;
+        Material material;
+
+        public void Add(Material material)
+        {
+
+        }
+
+        public void Remove(Material material)
+        {
+
+        }
+
+        public Material GetMaterialByID(int materialID)
+        {
+
+        }
+
+        public void ReserveShoppingCart(Dictionary<Material> material, string AccountEmail, OrderDate orderDate)
+        {
+
+        }
+
+        public void Reserve(Material material, int quantity, string AccountEmail, OrderDate orderDate)
+        {
+
+        }
     }
 }
