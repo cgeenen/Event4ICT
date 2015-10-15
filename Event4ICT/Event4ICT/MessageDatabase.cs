@@ -8,5 +8,20 @@ namespace Event4ICT
 {
     class MessageDatabase
     {
+        Material material;
+        public void AddMaterial(Material material, int eventID)
+        {
+
+        }
+
+        public void Reserve(Material material, int eventID, int quantity, string accountEmail, OrderDate orderDate)
+        {
+
+        }
+
+        public Material GetMaterialByID(int materialID)
+        {
+
+        }
     }
 }
