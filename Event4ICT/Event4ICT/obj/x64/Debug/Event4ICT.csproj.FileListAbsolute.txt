@@ -14,3 +14,5 @@ C:\Users\Cornee\Documents\GitHub\Event4ICT\Event4ICT\Event4ICT\obj\x64\Debug\Eve
 C:\Users\Cornee\Documents\GitHub\Event4ICT\Event4ICT\Event4ICT\obj\x64\Debug\Event4ICT.Form1.resources
 C:\Users\Cornee\Documents\GitHub\Event4ICT\Event4ICT\Event4ICT\obj\x64\Debug\Event4ICT.Properties.Resources.resources
 C:\Users\Cornee\Documents\GitHub\Event4ICT\Event4ICT\Event4ICT\obj\x64\Debug\Event4ICT.csproj.GenerateResource.Cache
+C:\Users\Cornee\Documents\GitHub\Event4ICT\Event4ICT\Event4ICT\bin\x64\Debug\Event4ICT.exe
+C:\Users\Cornee\Documents\GitHub\Event4ICT\Event4ICT\Event4ICT\bin\x64\Debug\Event4ICT.pdb
