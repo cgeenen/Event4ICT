@@ -10,7 +10,7 @@ namespace Event4ICT
 {
         public class Database
         {
-            private string _connectionString = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.20.2)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl)));User Id=PROFTAAKGROEP;Password=PROFTAAKs21b";
+            private string _connectionString = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)));User Id=local;Password=Bethom22!";
             private OracleConnection _connection;
             private OracleCommand command;
             private bool success = false;

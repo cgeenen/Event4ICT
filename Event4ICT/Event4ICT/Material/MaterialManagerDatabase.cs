@@ -8,11 +8,10 @@ namespace Event4ICT.Material
 {
     class MaterialManagerDatabase
     {
-        Material material;
-        public void AddMaterial(Material material, int eventID)
-        {
-
-        }
+        private Material material;
+        //public bool AddMaterial(Material material, int eventID)
+        //
+        //}
 
         public void Reserve(Material material, int eventID, int quantity, string accountEmail, OrderDate orderDate)
         {
