@@ -8,31 +8,31 @@ namespace Event4ICT
 {
     class Account
     {
-        public int AccountID { get; set; }
-        public string AccountType { get; set; }
-        public string EmailAddress { get; set; }
-        public string VisitorIDRFID { get; set; }
-        public string Password { get; set; }
-        public string FirstName { get; set; }
-        public string Surename { get; set; }
-        public string Address { get; set; }
-        public string Country { get; set; }
-        public string PhoneNumber { get; set; }
-        public string BankAccount { get; set; }
+        public static int AccountID { get; set; }
+        public static string AccountType { get; set; }
+        public static string EmailAddress { get; set; }
+        public static string VisitorIDRFID { get; set; }
+        public static string Password { get; set; }
+        public static string FirstName { get; set; }
+        public static string Surename { get; set; }
+        public static string Address { get; set; }
+        public static string Country { get; set; }
+        public static string PhoneNumber { get; set; }
+        public static string BankAccount { get; set; }
 
         public Account(int AccountID, string AccountType, string EmailAddress,string VisitorIDRFID, string Password,string FirstName, string Surename, string Address,string Country, string PhoneNumber, string BankAccount)
         {
-            this.AccountID = AccountID;
-            this.AccountType = AccountType;
-            this.EmailAddress = EmailAddress;
-            this.VisitorIDRFID = VisitorIDRFID;
-            this.Password = Password;
-            this.FirstName = FirstName;
-            this.Surename = Surename;
-            this.Address = Address;
-            this.Country = Country;
-            this.PhoneNumber = PhoneNumber;
-            this.BankAccount = BankAccount;
+            Account.AccountID= AccountID;
+            Account.AccountType = AccountType;
+            Account.EmailAddress = EmailAddress;
+            Account.VisitorIDRFID = VisitorIDRFID;
+            Account.Password = Password;
+            Account.FirstName = FirstName;
+            Account.Surename = Surename;
+            Account.Address = Address;
+            Account.Country = Country;
+            Account.PhoneNumber = PhoneNumber;
+            Account.BankAccount = BankAccount;
         }
     }
 }
