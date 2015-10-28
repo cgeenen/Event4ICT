@@ -8,17 +8,25 @@ namespace Event4ICT.Material
 {
     class MaterialManager
     {
-        Account account;
-        Material material;
+        private Account account;
+        private Material material;
+        private List<Material> materials;
+
+        public List<Material> Materials
+        {
+            get { return materials; }
+            set { materials = value; }
+        }
+        
 
         public void Add(Material material)
         {
-
+            Materials.Add(material);   
         }
 
         public void Remove(Material material)
         {
-
+            Materials.Remove(material);
         }
         /*
         public Material GetMaterialByID(int materialID)
