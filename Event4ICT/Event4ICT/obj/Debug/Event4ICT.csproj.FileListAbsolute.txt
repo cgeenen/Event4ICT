@@ -1,2 +1,5 @@
 C:\Users\Cornee\Documents\GitHub\Event4ICT\Event4ICT\Event4ICT\bin\Debug\Event4ICT.exe.config
 C:\Users\Diieuhanh\Documents\GitHub\Event4ICT\Event4ICT\Event4ICT\bin\Debug\Event4ICT.exe.config
+C:\Users\Diieuhanh\Documents\GitHub\Event4ICT\Event4ICT\Event4ICT\obj\Debug\Event4ICT.csprojResolveAssemblyReference.cache
+C:\Users\Diieuhanh\Documents\GitHub\Event4ICT\Event4ICT\Event4ICT\obj\Debug\Event4ICT.Properties.Resources.resources
+C:\Users\Diieuhanh\Documents\GitHub\Event4ICT\Event4ICT\Event4ICT\obj\Debug\Event4ICT.csproj.GenerateResource.Cache
